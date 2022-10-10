@@ -1,0 +1,48 @@
+body {
+   background:#ffffff;
+   border: 10px solid rgb(67, 42, 124)
+}
+
+#bannerpensamento {
+   width: 99%;
+   border: 6px solid red;
+}
+#tituloprincipal{
+   border: 10px solid red
+}
+
+
+.principal {
+   background:#cccccc;
+} 
+
+ .tituloprincipal{
+    padding-left: 20px; 
+  }
+
+p {
+   text-align: center;
+}
+
+em b {
+   color: #4c00ff; 
+}
+
+.pilarespensamento{
+   background:#ffffff;
+   border: 10px solid red;
+}
+ 
+ ul{
+    display: inline-block;
+ }
+
+ .imagempilares{
+    width: 50%;
+    border: 10px solid blue;
+    }
+
+ .importancia {
+    background: #cccccc;
+    border: 10px solid red;
+ }
